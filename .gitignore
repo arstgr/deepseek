@@ -1,0 +1,13 @@
+# Python virtual environments
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs and Editors
+.DS_Store
+.zed/
+
+# Deep learning specific
+checkpoints/
+*.pt
+*.pth
